@@ -40,7 +40,7 @@
   - [emoji](https://emojipedia.org/ "Emoji search engine"): Emoji search engine
   - [NES.css](https://nostalgic-css.github.io/NES.css/ "8-bit like css library"): 8-bit like css library
 
-## Chrome Extension
+## 🌈 Chrome Extension
   - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug "CSS Debug Tool"): CSS Debug Tool
   - [Git History Browser Extension](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf "Better view of github repo history"): Better view of github repo history
   - [Octotree](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack "Faster way to search repo files"): Faster way to search repo files
@@ -49,6 +49,10 @@
   - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp "Faster navigation of code"): Faster navigation of code
   - [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh "Organize work and life"): Organize work and life
   
-## Web Application
+## 🌐 Web Application
   - [Lucidchart](https://www.lucidchart.com/ "Best diagramming tool for developers"): Best diagramming tool for developers
   - [draw.io](https://www.draw.io/ "Best free diagramming tool"): Best free diagramming tool
+
+## 🙋 Learning Resources
+  - [css - layout](http://zh.learnlayout.com/): Simple but clear css layout tutorial
+  

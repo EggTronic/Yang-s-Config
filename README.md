@@ -57,4 +57,5 @@
 
 ## 🙋 Learning Resources
   - [css - layout](http://zh.learnlayout.com/): Simple but clear css layout tutorial
+  - [algorithm](https://github.com/labuladong/fucking-algorithm): <Chinese> clear algorithem tutorial 
   

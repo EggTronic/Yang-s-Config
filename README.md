@@ -19,6 +19,7 @@
   - stylelint
   - Version Lens
   - vscode-icons
+  - vscode-debug-visualizer
 
 ## 🧳 Webpack
 

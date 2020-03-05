@@ -35,6 +35,7 @@
   - [styled-components](https://www.npmjs.com/package/styled-components "style in react component"): Style in react component
   - [immer](https://immerjs.github.io/immer/docs/introduction): immutable js library
   - [storybook](https://storybook.js.org/): documentation tool for component library
+  - [@sambego/storybook-state](https://github.com/Sambego/storybook-state): light state management for storybook with react
 
 ## 🌈 Statics
   - [loading.io](https://loading.io/ "Cool loading icons"): Cool loading icons

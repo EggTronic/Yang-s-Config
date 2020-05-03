@@ -59,6 +59,7 @@
   - [draw.io](https://www.draw.io/ "Best free diagramming tool"): Best free diagramming tool
 
 ## 🙋 Learning Resources
+  - [browser - compatibility](https://caniuse.com/): check current browser compatibility
   - [css - layout](http://zh.learnlayout.com/): Simple but clear css layout tutorial
   - [css tricks](https://css-tricks.com/): go find your css solution here
   - [algorithm](https://github.com/labuladong/fucking-algorithm): <Chinese> clear algorithem tutorial 

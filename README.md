@@ -57,6 +57,7 @@
 ## 🌐 Web Application
   - [Lucidchart](https://www.lucidchart.com/ "Best diagramming tool for developers"): Best diagramming tool for developers
   - [draw.io](https://www.draw.io/ "Best free diagramming tool"): Best free diagramming tool
+  - [photopea](https://www.photopea.com/): Free online photo editing
 
 ## 🙋 Learning Resources
   - [browser - compatibility](https://caniuse.com/): check current browser compatibility

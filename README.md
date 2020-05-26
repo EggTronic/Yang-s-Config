@@ -64,3 +64,5 @@
   - [css tricks](https://css-tricks.com/): go find your css solution here
   - [algorithm](https://github.com/labuladong/fucking-algorithm): <Chinese> clear algorithem tutorial 
   
+## Other Resources
+  - [wallpaper](https://www.wallpapermaiden.com/): high quality wallpapers 

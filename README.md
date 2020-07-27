@@ -36,6 +36,7 @@
   - [immer](https://immerjs.github.io/immer/docs/introduction): immutable js library
   - [storybook](https://storybook.js.org/): documentation tool for component library
   - [@sambego/storybook-state](https://github.com/Sambego/storybook-state): light state management for storybook with react
+  - [ReacTour](https://reactour.js.org/): component for user guide and instruction
 
 ## 🌈 Statics
   - [loading.io](https://loading.io/ "Cool loading icons"): Cool loading icons

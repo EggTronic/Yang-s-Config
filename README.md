@@ -44,6 +44,7 @@
   - [maketext.io](https://maketext.io/ "Cool text generator"): Cool text generator
   - [emoji](https://emojipedia.org/ "Emoji search engine"): Emoji search engine
   - [NES.css](https://nostalgic-css.github.io/NES.css/ "8-bit like css library"): 8-bit like css library
+  - [cssgradient.io](https://cssgradient.io/): Nice Gradient Color Generator for css
 
 ## 🌈 Chrome Extension
   - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug "CSS Debug Tool"): CSS Debug Tool

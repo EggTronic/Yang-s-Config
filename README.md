@@ -38,6 +38,13 @@
   - [@sambego/storybook-state](https://github.com/Sambego/storybook-state): light state management for storybook with react
   - [ReacTour](https://reactour.js.org/): component for user guide and instruction
   - [react-spring](https://www.react-spring.io/): fancy animation for react
+ 
+## 🌈2D/3D/Animation
+  - [GSAP](https://greensock.com/): HTML5, SVG, jQuery, Canvas, CSS, new browsers, old browsers, React, Vue, EaselJS, mobile, and more – GSAP gets along with them famously
+  - [anime.js](https://animejs.com/): It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+  - [three.js](https://threejs.org/): You know.
+  - [p5.js](https://p5js.org/): Simplified way to create artworks using Canvas, CSS, DOM.
+  - [d3.js](https://d3js.org/): D3 helps you bring data to life using HTML, SVG, and CSS (for chart components).
 
 ## 🌈 Statics
   - [loading.io](https://loading.io/ "Cool loading icons"): Cool loading icons

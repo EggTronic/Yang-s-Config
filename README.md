@@ -54,6 +54,9 @@
   - [NES.css](https://nostalgic-css.github.io/NES.css/ "8-bit like css library"): 8-bit like css library
   - [cssgradient.io](https://cssgradient.io/): Nice Gradient Color Generator for css
 
+## Testing
+  - [Pingdom](https://tools.pingdom.com/): Web performance analysis tool
+
 ## 🌈 Chrome Extension
   - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug "CSS Debug Tool"): CSS Debug Tool
   - [Git History Browser Extension](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf "Better view of github repo history"): Better view of github repo history

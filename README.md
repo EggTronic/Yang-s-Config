@@ -20,6 +20,9 @@
   - Version Lens
   - vscode-icons
   - vscode-debug-visualizer
+  ### Fancy
+  - power mode
+  
 
 ## 🧳 Webpack
 
@@ -77,6 +80,7 @@
   - [css - layout](http://zh.learnlayout.com/): Simple but clear css layout tutorial
   - [css tricks](https://css-tricks.com/): go find your css solution here
   - [algorithm](https://github.com/labuladong/fucking-algorithm): <Chinese> clear algorithem tutorial 
+  - [cssbattle](https://cssbattle.dev/): css battle&challenges online!
   
 ## Other Resources
   - [wallpaper](https://www.wallpapermaiden.com/): high quality wallpapers 

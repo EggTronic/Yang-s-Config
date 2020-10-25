@@ -82,5 +82,8 @@
   - [algorithm](https://github.com/labuladong/fucking-algorithm): <Chinese> clear algorithem tutorial 
   - [cssbattle](https://cssbattle.dev/): css battle&challenges online!
   
+## articles
+  - [lazy-load-image-with-animation](https://swizec.com/blog/fade-in-lazy-loaded-images-with-react-and-css-a-quick-guide)
+  
 ## Other Resources
   - [wallpaper](https://www.wallpapermaiden.com/): high quality wallpapers 

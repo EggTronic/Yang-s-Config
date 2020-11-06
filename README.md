@@ -46,6 +46,7 @@
  
 ## 🌈2D/3D/Animation
   - [GSAP](https://greensock.com/): HTML5, SVG, jQuery, Canvas, CSS, new browsers, old browsers, React, Vue, EaselJS, mobile, and more – GSAP gets along with them famously
+  - [PIXI](https://www.pixijs.com/): Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
   - [anime.js](https://animejs.com/): It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
   - [three.js](https://threejs.org/): You know.
   - [p5.js](https://p5js.org/): Simplified way to create artworks using Canvas, CSS, DOM.

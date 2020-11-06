@@ -76,6 +76,7 @@
   - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp "Faster navigation of code"): Faster navigation of code
   - [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh "Organize work and life"): Organize work and life
   - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk): Automated tool for improving the performance, quality, and correctness of your web apps
+  - [BrowserStack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb/related?hl=en-US): Test your website on different browser.
   
 ## 🌐 Web Application
   - [Lucidchart](https://www.lucidchart.com/ "Best diagramming tool for developers"): Best diagramming tool for developers

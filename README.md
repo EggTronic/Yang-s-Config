@@ -56,11 +56,14 @@
   - [fontawesome.io](http://fontawesome.io/ "Cool icons"): Cool icons
   - [maketext.io](https://maketext.io/ "Cool text generator"): Cool text generator
   - [emoji](https://emojipedia.org/ "Emoji search engine"): Emoji search engine
-  - [NES.css](https://nostalgic-css.github.io/NES.css/ "8-bit like css library"): 8-bit like css library
   - [cssgradient.io](https://cssgradient.io/): Nice Gradient Color Generator for css
   - [freepik](https://www.freepik.com/): Free Pictures, especially SVG!!!
 
-## Testing
+## 🌈CSS Frameworks
+  - [Tailwind](https://tailwindcss.com/): Highly customizable css framework.
+  - [NES.css](https://nostalgic-css.github.io/NES.css/ "8-bit like css library"): 8-bit like css library
+
+## 🔨Testing
   - [Pingdom](https://tools.pingdom.com/): Web performance analysis tool
 
 ## 🌈 Chrome Extension

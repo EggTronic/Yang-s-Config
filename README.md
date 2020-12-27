@@ -100,3 +100,4 @@
 ## Other Resources
   - [wallpaper](https://www.wallpapermaiden.com/): high quality wallpapers 
   - [blend4web](https://www.blend4web.com/): put your 3d blender design into web
+  - [google ppt template](https://slidesgo.com/): awesome ppt templates for google doc and office

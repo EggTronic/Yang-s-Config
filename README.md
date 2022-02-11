@@ -44,6 +44,7 @@
   - [swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc): Node API documentation tool 
   - [redoc](https://github.com/Redocly/redoc): UI that support OPENAPI
   - [dat.gui](https://github.com/dataarts/dat.gui): A lightweight graphical user interface for changing variables in JavaScript.
+  - [standard-version](https://www.npmjs.com/package/standard-version): A utility for versioning using semver and CHANGELOG generation powered by Conventional Commits.
  
 ## 🌈2D/3D/Animation
   - [GSAP](https://greensock.com/): HTML5, SVG, jQuery, Canvas, CSS, new browsers, old browsers, React, Vue, EaselJS, mobile, and more – GSAP gets along with them famously
